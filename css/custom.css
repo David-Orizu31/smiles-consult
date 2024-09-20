@@ -1,0 +1,23 @@
+.get-quote .btn.primary{
+	background:#2C2D3F;
+	color:#fff;
+}
+.get-quote .btn.primary:before{
+	background:#1A76D1;
+}
+
+.reg-menu {
+    font-size: 14px;
+}
+
+.font-400 {
+    font-weight: 400;
+}
+
+.font-500 {
+    font-weight: 500;
+}
+
+.font-600 {
+    font-weight: 600;
+}
